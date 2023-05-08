@@ -45,6 +45,9 @@ alias cat='bat'
 alias icat='kitty +kitten icat'
 alias cd..='cd ..'
 alias vim='nvim'
+alias srn='sudo reboot now'
+alias ssn='sudo shutdown now'
+
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # Plugins
